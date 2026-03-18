@@ -4,9 +4,9 @@ const CLUBS = [
   {
     id: 'swifts',
     name: 'Swifts',
-    city: 'London',
+    city: 'Swifts',
     color: '#EF0107',
-    initials: 'AFC',
+    initials: 'S',
     players: [
       { number: 1,  name: 'David Raya',           position: 'GK',  nationality: 'Spain' },
       { number: 3,  name: 'Kieran Tierney',        position: 'DEF', nationality: 'Scotland' },
@@ -30,7 +30,7 @@ const CLUBS = [
     name: 'Sneakers',
     city: 'Sneakers',
     color: '#C8102E',
-    initials: 'LFC',
+    initials: 'S',
     players: [
       { number: 1,  name: 'Alisson Becker',       position: 'GK',  nationality: 'Brazil' },
       { number: 4,  name: 'Virgil van Dijk',      position: 'DEF', nationality: 'Netherlands' },
@@ -53,7 +53,7 @@ const CLUBS = [
     name: 'Mannas',
     city: 'Mannas',
     color: '#6CABDD',
-    initials: 'MCFC',
+    initials: 'M',
     players: [
       { number: 31, name: 'Ederson',              position: 'GK',  nationality: 'Brazil' },
       { number: 2,  name: 'Kyle Walker',          position: 'DEF', nationality: 'England' },
@@ -75,7 +75,7 @@ const CLUBS = [
     name: 'Llabten ',
     city: 'Llabten',
     color: '#DA291C',
-    initials: 'MUFC',
+    initials: 'L',
     players: [
       { number: 1,  name: 'Andre Onana',          position: 'GK',  nationality: 'Cameroon' },
       { number: 2,  name: 'Victor Lindelof',      position: 'DEF', nationality: 'Sweden' },
@@ -97,7 +97,7 @@ const CLUBS = [
     name: 'Blaze',
     city: 'Blaze',
     color: '#241F20',
-    initials: 'NUFC',
+    initials: 'B',
     players: [
       { number: 1,  name: 'Nick Pope',            position: 'GK',  nationality: 'England' },
       { number: 2,  name: 'Kieran Trippier',      position: 'DEF', nationality: 'England' },
@@ -118,7 +118,7 @@ const CLUBS = [
     name: "Fier Orcas",
     city: 'Fier Orcas',
     color: '#DD0000',
-    initials: 'NFFC',
+    initials: 'FO',
     players: [
       { number: 1,  name: 'Matz Sels',            position: 'GK',  nationality: 'Belgium' },
       { number: 2,  name: 'Ola Aina',             position: 'DEF', nationality: 'Nigeria' },
