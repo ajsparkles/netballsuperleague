@@ -2,8 +2,8 @@
 
 const CLUBS = [
   {
-    id: 'arsenal',
-    name: 'Arsenal',
+    id: 'swifts',
+    name: 'Swifts',
     city: 'London',
     color: '#EF0107',
     initials: 'AFC',
@@ -26,9 +26,9 @@ const CLUBS = [
     ],
   },
   {
-    id: 'liverpool',
-    name: 'Liverpool',
-    city: 'Liverpool',
+    id: 'Sneakers',
+    name: 'Sneakers',
+    city: 'Sneakers',
     color: '#C8102E',
     initials: 'LFC',
     players: [
@@ -49,9 +49,9 @@ const CLUBS = [
     ],
   },
   {
-    id: 'mancity',
-    name: 'Manchester City',
-    city: 'Manchester',
+    id: 'Mannas',
+    name: 'Mannas',
+    city: 'Mannas',
     color: '#6CABDD',
     initials: 'MCFC',
     players: [
@@ -71,9 +71,9 @@ const CLUBS = [
     ],
   },
   {
-    id: 'manutd',
-    name: 'Manchester United',
-    city: 'Manchester',
+    id: 'Llabten',
+    name: 'Llabten ',
+    city: 'Llabten',
     color: '#DA291C',
     initials: 'MUFC',
     players: [
@@ -93,9 +93,9 @@ const CLUBS = [
     ],
   },
   {
-    id: 'newcastle',
-    name: 'Newcastle United',
-    city: 'Newcastle',
+    id: 'Blaze',
+    name: 'Blaze',
+    city: 'Blaze',
     color: '#241F20',
     initials: 'NUFC',
     players: [
@@ -114,9 +114,9 @@ const CLUBS = [
     ],
   },
   {
-    id: 'nottmforest',
-    name: "Nottingham Forest",
-    city: 'Nottingham',
+    id: 'Fier Orcas',
+    name: "Fier Orcas",
+    city: 'Fier Orcas',
     color: '#DD0000',
     initials: 'NFFC',
     players: [
